@@ -9,7 +9,7 @@ Open source IDE supported by Microsoft very fast and with support for a lot exte
 - [Extensions](#extensions)
   - [GitHub Actions](#extensions-github-actions)
   - [Docker](#extensions-github-docker)
--- [tips](#tips)
+- [tips](#tips)
   - [Show whitespaces](#tips-show-whitespaces)
 
 
