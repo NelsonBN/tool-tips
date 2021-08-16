@@ -92,5 +92,8 @@ Settings > Open JSON file
   }
 ],
 ```
+
+![Windows terminal](../media/windows-terminal-sample.png "Windows terminal")
+
 [Colors scheme](https://draculatheme.com/windows-terminal)
 > Original source of the tutorial [Blog Renato Groffe](https://renatogroffe.medium.com/dicas-de-visual-studio-code-integra%C3%A7%C3%A3o-com-git-via-terminal-e-kubernetes-templates-pt5-395819902ab7)

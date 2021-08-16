@@ -47,4 +47,4 @@ This tip it's very useful to when you are create yaml files or programming pytho
 2. Search the configuration: editor.renderWhitespace
 3. change to **All**
 
-![Font installation](../../media/show-whitespaces.png "Font installation")
+![Show whitespaces](../../media/show-whitespaces.png "Show whitespaces")
