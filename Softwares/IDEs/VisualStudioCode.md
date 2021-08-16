@@ -44,7 +44,7 @@ You can get IntelliSense when editing your Dockerfile and docker-compose.yml fil
 This tip it's very useful to when you are create yaml files or programming python to see the code indentation
 
 1. Go Settings
-2. Search the configuration: editor.renderWhitespace
+2. Search the configuration: `editor.renderWhitespace`
 3. change to **All**
 
 ![Show whitespaces](../../media/show-whitespaces.png "Show whitespaces")
