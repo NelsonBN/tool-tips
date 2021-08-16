@@ -7,16 +7,19 @@ Windows terminal is a new Microsoft open source CLI with support to multiple ter
 - [.. Tools](./README.md)
 - [Donwload](#donwload)
 - [Git customization](#gitcustomization)
-- [Windows terminal customization](#customization)
+  - [Windows terminal customization](#customization)
+  - [Solve problems](#solve-problems)
 
 
 
-## Donwload <a name="donwload"></a>
+## Download <a name="download"></a>
 [Official](https://docs.microsoft.com/en-us/windows/terminal/get-started)
 
 
 
 ## Git customization <a name="gitcustomization"></a>
+
+![Windows terminal](../media/windows-terminal-sample.png "Windows terminal")
 
 **Install git support**
 ```bash
@@ -48,7 +51,7 @@ Install the fronts for all users
 
 ![Font installation](../media/install-fronts.png "Font installation")
 
-## Windows terminal customization <a name="customization"></a>
+### Windows terminal customization <a name="customization"></a>
 
 Settings > Open JSON file
 ```json
@@ -93,7 +96,23 @@ Settings > Open JSON file
 ],
 ```
 
-![Windows terminal](../media/windows-terminal-sample.png "Windows terminal")
-
 [Colors scheme](https://draculatheme.com/windows-terminal)
+
 > Original source of the tutorial [Blog Renato Groffe](https://renatogroffe.medium.com/dicas-de-visual-studio-code-integra%C3%A7%C3%A3o-com-git-via-terminal-e-kubernetes-templates-pt5-395819902ab7)
+
+
+
+### Solve problems <a name="solve-problems"></a>
+
+#### UnauthorizedAccess error
+![Windows terminal unauthorized access](../media/windows-terminal-error.png "Windows terminal unauthorized access")
+
+```bash
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+[Official documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.1)
+
+
+
+
