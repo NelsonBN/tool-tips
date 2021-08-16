@@ -9,6 +9,8 @@ Open source IDE supported by Microsoft very fast and with support for a lot exte
 - [Extensions](#extensions)
   - [GitHub Actions](#extensions-github-actions)
   - [Docker](#extensions-github-docker)
+-- [tips](#tips)
+  - [Show whitespaces](#tips-show-whitespaces)
 
 
 
@@ -31,3 +33,18 @@ The Docker extension makes it easy to build, manage, and deploy containerized ap
 You can get IntelliSense when editing your Dockerfile and docker-compose.yml files, with completions and syntax help for common commands.
 
 [Download](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
+
+
+### Tips <a name="tips"></a>
+
+
+#### Show whitespaces <a name="tips-show-whitespaces"></a>
+
+This tip it's very useful to when you are create yaml files or programming python to see the code indentation
+
+1. Go Settings
+2. Search the configuration: editor.renderWhitespace
+3. change to **All**
+
+![Font installation](../../media/show-whitespaces.png "Font installation")
