@@ -45,6 +45,7 @@ Set-PoshPrompt -Theme slimfat
 [Download](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
 
 Install the fronts for all users
+
 ![Font installation](../media/install-fronts.png "Font installation")
 
 ## Windows terminal customization <a name="customization"></a>
