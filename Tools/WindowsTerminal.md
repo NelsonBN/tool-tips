@@ -42,9 +42,10 @@ Set-PoshPrompt -Theme slimfat
 
 **Install font to support theme icons**
 
-[Download](https://github.com/romkatv/dotfiles-public/blob/master/.local/share/fonts/NerdFonts/MesloLGS%20NF%20Regular.ttf)
+[Download](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
 
-
+Install the fronts for all users
+![Font installation](../media/install-fronts.png "Font installation")
 
 ## Windows terminal customization <a name="customization"></a>
 
@@ -56,7 +57,7 @@ Settings > Open JSON file
   {
     "acrylicOpacity": 0.89,
     "colorScheme": "Dracula",
-    "fontFace": "MesloLGS NF Regular",
+    "fontFace": "MesloLGS NF",
     "fontSize": 10,
     "useAcrylic": true
   },
