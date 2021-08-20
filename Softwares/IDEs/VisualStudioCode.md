@@ -1,20 +1,21 @@
-### Visual Studio Code
+# Visual Studio Code
 Open source IDE supported by Microsoft very fast and with support for a lot extensions.
 
 
 
 ## Index
 - [.. IDE's](../README.md)
-- [Donwload](#donwload)
+- [Download](#download)
 - [Extensions](#extensions)
   - [GitHub Actions](#extensions-github-actions)
   - [Docker](#extensions-github-docker)
+  - [Task list](#extensions-tasklist)
 - [Tips](#tips)
   - [Show whitespaces](#tips-show-whitespaces)
+- [HotKeys (Shortcuts)](#hotkeys)
 
 
-
-## Donwload <a name="donwload"></a>
+## Download <a name="download"></a>
 [Download](https://code.visualstudio.com/)
 
 
@@ -35,6 +36,11 @@ You can get IntelliSense when editing your Dockerfile and docker-compose.yml fil
 [Download](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
 
+#### Task List <a name="extensions-tasklist"></a>
+A extensions to show all your tags TODOs, FIXMEs, etc.
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+> [Equivalence in visual studio](./VisualStudio.md#tools-tasklist)
 
 ### Tips <a name="tips"></a>
 
@@ -48,3 +54,9 @@ This tip it's very useful to when you are create yaml files or programming pytho
 3. change to **All**
 
 ![Show whitespaces](../../media/show-whitespaces.png "Show whitespaces")
+
+
+
+### Hotkeys (Shortcuts)<a name="hotkeys"></a>
+
+- `Alt` + `sift` + `A` : Comment and uncomment code

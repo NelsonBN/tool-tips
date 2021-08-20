@@ -6,8 +6,7 @@ Windows terminal is a new Microsoft open source CLI with support to multiple ter
 ## Index
 - [.. Tools](./README.md)
 - [Donwload](#donwload)
-- [Git customization](#gitcustomization)
-  - [Windows terminal customization](#customization)
+- [Customization](#customization)
   - [Solve problems](#solve-problems)
 
 
@@ -17,7 +16,7 @@ Windows terminal is a new Microsoft open source CLI with support to multiple ter
 
 
 
-## Git customization <a name="gitcustomization"></a>
+## Customization <a name="customization"></a>
 
 ![Windows terminal](../media/windows-terminal-sample.png "Windows terminal")
 
@@ -31,6 +30,12 @@ Install-Module posh-git -Scope CurrentUser -Force
 Install-Module oh-my-posh -Scope CurrentUser
 ```
 
+**Install support terminal icons**
+```bash
+Install-Module -Name Terminal-Icons -Repository PSGallery
+```
+
+
 **Edit profile**
 ```bash
 code $PROFILE
@@ -38,6 +43,7 @@ code $PROFILE
 
 **Load modules and theme. Add next code in end of file**
 ```bash
+Import-Module Terminal-Icons
 Import-Module posh-git
 Import-Module oh-my-posh
 Set-PoshPrompt -Theme slimfat
@@ -45,15 +51,15 @@ Set-PoshPrompt -Theme slimfat
 
 **Install font to support theme icons**
 
-[Download](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
-
-Install the fronts for all users
+Install the fronts for all users. Choose a font based in nerd fonts.
 
 ![Font installation](../media/install-fronts.png "Font installation")
 
-### Windows terminal customization <a name="customization"></a>
+- **Font suggestion 1:** [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip)
+- **Font suggestion 2:** [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
+- **More nerd fonts:** [Website](https://www.nerdfonts.com/)
 
-Settings > Open JSON file
+**Settings > Open JSON file**
 ```json
 "profiles":
 {
@@ -61,11 +67,12 @@ Settings > Open JSON file
   {
     "acrylicOpacity": 0.89,
     "colorScheme": "Dracula",
-    "fontFace": "MesloLGS NF",
+    //"fontFace": "MesloLGS NF",
+    "fontFace": "CaskaydiaCove Nerd Font",
     "fontSize": 10,
     "useAcrylic": true
   },
-    
+
     ...
 
 "schemes":
@@ -98,8 +105,6 @@ Settings > Open JSON file
 
 [Colors scheme](https://draculatheme.com/windows-terminal)
 
-> Original source of the tutorial [Blog Renato Groffe](https://renatogroffe.medium.com/dicas-de-visual-studio-code-integra%C3%A7%C3%A3o-com-git-via-terminal-e-kubernetes-templates-pt5-395819902ab7)
-
 
 
 ### Solve problems <a name="solve-problems"></a>
@@ -112,7 +117,3 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
 [Official documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.1)
-
-
-
-
