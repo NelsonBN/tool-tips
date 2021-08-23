@@ -1,5 +1,5 @@
-# Dev tips
-Tips, tools and software to improve development
+# Tool tips
+Tips, tools and software to improve your productivity
 
 
 
