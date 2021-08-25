@@ -117,3 +117,8 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
 [Official documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.1)
+
+
+
+## Credits
+Original source of the tutorial [Blog Renato Groffe](https://renatogroffe.medium.com/dicas-de-visual-studio-code-integra%C3%A7%C3%A3o-com-git-via-terminal-e-kubernetes-templates-pt5-395819902ab7)

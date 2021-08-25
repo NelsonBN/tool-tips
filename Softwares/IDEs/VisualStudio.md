@@ -9,6 +9,7 @@ Maybe the best and more complete IDE.
 - [Extensions](#extensions)
   - [Productivity Power Tools 2017/2019](#extensions-productivity-power-tools)
 - [Tips](#tips)
+  - [Display line numbers](#tips-display-line-numbers)
   - [Unused namespaces](#tips-unused-namespaces)
 - [Tools](#tools)
   - [Task list](#tools-tasklist)
@@ -32,6 +33,10 @@ This is an extension bundle installer that will install each of the individual c
 
 
 ### Tips <a name="tips"></a>
+
+
+#### Display line numbers <a name="tips-display-line-numbers"></a>
+[Official documentation](https://docs.microsoft.com/en-us/visualstudio/ide/reference/how-to-display-line-numbers-in-the-editor?view=vs-2019)
 
 
 #### Unused namespaces <a name="tips-unused-namespaces"></a>
