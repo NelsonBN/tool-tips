@@ -14,6 +14,9 @@ Maybe the best and more complete IDE.
 - [Tools](#tools)
   - [Task list](#tools-tasklist)
   - [Code cleanup](#tools-Code-cleanup)
+- [HotKeys (Shortcuts)](#hotkeys)
+  - [Edit](#hotkeys-edit)
+  - [List](#hotkeys-list)
 
 
 ## Download <a name="download"></a>
@@ -86,3 +89,21 @@ _Or can use the [shortcut](#tools-Code-cleanup-shortcut)_
 
 ##### Shortcut <a name="tools-Code-cleanup-shortcut"></a>
 ![Task List options](../../media/visualstudio-tools-code-cleanup.png "Task List options")
+
+
+
+### Hotkeys (Shortcuts)<a name="hotkeys"></a>
+
+#### Edit <a name="hotkeys-edit"></a>
+`Menu` > `Tools` > `Options` > `Environment` > `Keyboard`
+
+
+#### List <a name="hotkeys-list"></a>
+
+**Comments**
+- `Ctrl` + `K` `Ctrl` + `C` : Add line comment (Edit.CommentSelection)
+- `Ctrl` + `K` `Ctrl` + `U` : Remove line comment (Edit.UncommentSelection)
+
+**Capitalization**
+- `Ctrl` + `Shift` + `U` : Transform to uppercase (Edit.MakeUppercase)
+- `Ctrl` + `U` : Transform to lowercase (Edit.MakeLowercase)

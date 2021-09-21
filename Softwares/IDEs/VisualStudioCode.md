@@ -13,6 +13,8 @@ Open source IDE supported by Microsoft very fast and with support for a lot exte
 - [Tips](#tips)
   - [Show whitespaces](#tips-show-whitespaces)
 - [HotKeys (Shortcuts)](#hotkeys)
+  - [Edit](#hotkeys-edit)
+  - [List](#hotkeys-list)
 
 
 ## Download <a name="download"></a>
@@ -59,4 +61,16 @@ This tip it's very useful to when you are create yaml files or programming pytho
 
 ### Hotkeys (Shortcuts)<a name="hotkeys"></a>
 
-- `Alt` + `sift` + `A` : Comment and uncomment code
+#### Edit <a name="hotkeys-edit"></a>
+`Menu` > `File` > `Preferences` > `Keyboard Shortcuts`
+
+
+#### List <a name="hotkeys-list"></a>
+
+**Comments**
+- `Ctrl` + `K` `Ctrl` + `C` : Add line comment (editor.action.addCommentLine)
+- `Ctrl` + `K` `Ctrl` + `U` : Remove line comment (editor.action.removeCommentLine)
+
+**Capitalization**
+- `Ctrl` + `Shift` + `U` : Transform to uppercase (editor.action.transformToUppercase) _Modified by me_
+- `Ctrl` + `U` : Transform to lowercase (editor.action.transformToLowercase) _Modified by me_
