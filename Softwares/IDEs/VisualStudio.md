@@ -107,3 +107,6 @@ _Or can use the [shortcut](#tools-Code-cleanup-shortcut)_
 **Capitalization**
 - `Ctrl` + `Shift` + `U` : Transform to uppercase (Edit.MakeUppercase)
 - `Ctrl` + `U` : Transform to lowercase (Edit.MakeLowercase)
+
+**Files**
+- `Ctrl` + `Shift` + `S` : Save All (File.SaveAll)

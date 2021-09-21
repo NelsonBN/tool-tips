@@ -74,3 +74,6 @@ This tip it's very useful to when you are create yaml files or programming pytho
 **Capitalization**
 - `Ctrl` + `Shift` + `U` : Transform to uppercase (editor.action.transformToUppercase) _Modified by me_
 - `Ctrl` + `U` : Transform to lowercase (editor.action.transformToLowercase) _Modified by me_
+
+**Files**
+- `Ctrl` + `Shift` + `S` : Save All (saveAll) _Modified by me_
