@@ -120,3 +120,8 @@ wsl --unregister <DistributionName>
 ```bash
 wsl --unregister Ubuntu-20.04
 ```
+
+
+
+## Related documentation
+* [Install docker](./wsl2-docker.md)

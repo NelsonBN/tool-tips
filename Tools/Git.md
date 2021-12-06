@@ -5,7 +5,7 @@ Git is a free and open source distributed version control system designed to han
 
 ## Index
 - [.. Tools](./README.md)
-- [Donwload](#donwload)
+- [Download](#download)
 - [Commands](#commands)
   - [Update](#commands-update)
 
@@ -21,6 +21,6 @@ Git is a free and open source distributed version control system designed to han
 ### Update <a name="commands-update"></a>
 
 **Windows**
-```json
+```bash
 git update-git-for-windows
 ```
