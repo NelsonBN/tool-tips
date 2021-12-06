@@ -46,3 +46,12 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.1/docker-
 ```bash
 sudo service docker start
 ```
+
+
+
+## Configure the Docker
+
+### Login to Docker
+```bash
+docker login
+```
