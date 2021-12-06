@@ -76,10 +76,23 @@ wsl --set-version Ubuntu-20.04 2
 wsl --list --running
 ```
 
+### Set default Linux distribution
+```bash
+wsl -s <DistributionName>
+```
+or
+```bash
+wsl --setdefault <DistributionName>
+```
+*Exmaple:*
+```bash
+wsl --setdefault Ubuntu-20.04
+```
 
 
-### Set resources limit used by the WSL
-#### Defaul configuration
+
+## Set resources limit used by the WSL
+### Defaul configuration
 * 100% of the available disk space
 * All CPU cores
 * 80% of the RAM
@@ -96,3 +109,14 @@ swap=1GB
 [Official documentation](https://docs.microsoft.com/en-us/windows/wsl/wsl-config#wsl-2-settings)
 
 > To assume the new settings, you have to turn off all linux distributions. `wsl --shutdown` and next start a linux distribution.
+
+
+
+## Unregister a Linux distribution
+```bash
+wsl --unregister <DistributionName>
+```
+*Exmaple:*
+```bash
+wsl --unregister Ubuntu-20.04
+```
