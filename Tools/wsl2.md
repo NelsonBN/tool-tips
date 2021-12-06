@@ -52,6 +52,10 @@ or
 ```bash
 wsl -l
 ```
+**Verbose mode**
+```bash
+wsl -l -v
+```
 
 ### Install new linux distribution
 ```bash
