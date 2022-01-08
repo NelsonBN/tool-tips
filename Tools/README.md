@@ -1,11 +1,11 @@
-# Tool tips
+# Tool
 Tool tips to improve development
 
 
 
 ## Index
-- [.. Dev tips](../README.md)
-- [Windows Terminal](./WindowsTerminal.md)
-- [git](./git.md)
-- [WSL 2](./wsl2.md)
-  - [Docker](./wsl2-docker.md)
+- [.. Dev tips](/README.md)
+- [Windows Terminal](/Tools/WindowsTerminal.md)
+- [git](/Tools/git.md)
+- [WSL 2](/Tools/wsl2.md)
+  - [Docker](/Tools/wsl2-docker.md)

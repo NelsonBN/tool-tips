@@ -2,6 +2,11 @@
 
 
 
+## Index
+- [.. Configurations tips](/Configurations/README.md)
+
+
+
 ## Turn off indexing service
 1. Open services manager;
 2. Find the service with name `Windows Search`;

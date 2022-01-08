@@ -4,7 +4,7 @@ Open source IDE supported by Microsoft very fast and with support for a lot exte
 
 
 ## Index
-- [.. IDE's](../README.md)
+- [.. Softwares](/Softwares/README.md)
 - [Download](#download)
 - [Extensions](#extensions)
   - [GitHub Actions](#extensions-github-actions)
@@ -55,7 +55,7 @@ This tip it's very useful to when you are create yaml files or programming pytho
 2. Search the configuration: `editor.renderWhitespace`
 3. change to **All**
 
-![Show whitespaces](../../media/show-whitespaces.png "Show whitespaces")
+![Show whitespaces](/media/show-whitespaces.png "Show whitespaces")
 
 
 

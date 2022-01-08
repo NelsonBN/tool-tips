@@ -2,6 +2,11 @@
 
 
 
+## Index
+- [.. Tools](/Tools/README.md)
+
+
+
 ## Requirements
 * Windows 10 version 2004 (Build 19041 and higher) or Windows 11
 * 4 GB of RAM
@@ -16,7 +21,7 @@ wsl --install
 ```
 
 ### Enable the Windows Subsystem for Linux and Virtual Machine feature
-First, run [Windows terminal](./WindowsTerminal.md) As Administrator
+First, run [Windows terminal](/Tools/WindowsTerminal.md) As Administrator
 ```bash
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
@@ -128,4 +133,4 @@ wsl --unregister Ubuntu-20.04
 
 
 ## Related documentation
-* [Install docker](./wsl2-docker.md)
+* [Install docker](/Tools/wsl2-docker.md)

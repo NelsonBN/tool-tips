@@ -4,7 +4,7 @@ Maybe the best and more complete IDE.
 
 
 ## Index
-- [.. IDE's](../README.md)
+- [.. Softwares](/Softwares/README.md)
 - [Download](#download)
 - [Extensions](#extensions)
   - [Productivity Power Tools 2017/2019](#extensions-productivity-power-tools)
@@ -55,7 +55,7 @@ This is an extension bundle installer that will install each of the individual c
 
 #### Task list <a name="tools-tasklist"></a>
 A tool to show all your tags TODOs, FIXMEs, etc.
-![Task List](../../media/visualstudio-tools-tasklist.png "Task List")
+![Task List](/media/visualstudio-tools-tasklist.png "Task List")
 
 **Open window**
 
@@ -66,7 +66,7 @@ A tool to show all your tags TODOs, FIXMEs, etc.
 2. Choose the tag name and priority
 2. Button `Add`
 
-![Task List options](../../media/visualstudio-tools-tasklist-options.png "Task List options")
+![Task List options](/media/visualstudio-tools-tasklist-options.png "Task List options")
 
 
 #### Code cleanup <a name="tools-Code-cleanup"></a>
@@ -88,7 +88,7 @@ _Or can use the [shortcut](#tools-Code-cleanup-shortcut)_
 - Add/remove braces for single-line control statements
 
 ##### Shortcut <a name="tools-Code-cleanup-shortcut"></a>
-![Task List options](../../media/visualstudio-tools-code-cleanup.png "Task List options")
+![Task List options](/media/visualstudio-tools-code-cleanup.png "Task List options")
 
 
 

@@ -4,7 +4,7 @@ Git is a free and open source distributed version control system designed to han
 
 
 ## Index
-- [.. Tools](./README.md)
+- [.. Tools](/Tools/README.md)
 - [Installation](#installation)
   - [Windows](#installation-windows)
   - [Linux](#installation-linux)

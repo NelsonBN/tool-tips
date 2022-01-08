@@ -3,7 +3,7 @@ Software tips to improve development
 
 
 ## Index
-- [.. Dev tips](../README.md)
+- [.. Dev tips](/README.md)
 - IDE's
-  - [Visual Studio](./IDEs/VisualStudio.md)
-  - [Visual Studio Code](./IDEs/VisualStudioCode.md)
+  - [Visual Studio](/Softwares/IDEs/VisualStudio.md)
+  - [Visual Studio Code](/Softwares/IDEs/VisualStudioCode.md)

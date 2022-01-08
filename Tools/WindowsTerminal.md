@@ -4,7 +4,7 @@ Windows terminal is a new Microsoft open source CLI with support to multiple ter
 
 
 ## Index
-- [.. Tools](./README.md)
+- [.. Tools](/Tools/README.md)
 - [Donwload](#donwload)
 - [Customization](#customization)
   - [Solve problems](#solve-problems)
@@ -18,7 +18,7 @@ Windows terminal is a new Microsoft open source CLI with support to multiple ter
 
 ## Customization <a name="customization"></a>
 
-![Windows terminal](../media/windows-terminal-sample.png "Windows terminal")
+![Windows terminal](/media/windows-terminal-sample.png "Windows terminal")
 
 **Install git support**
 ```bash
@@ -53,7 +53,7 @@ Set-PoshPrompt -Theme slimfat
 
 Install the fronts for all users. Choose a font based in nerd fonts.
 
-![Font installation](../media/install-fronts.png "Font installation")
+![Font installation](/media/install-fronts.png "Font installation")
 
 - **Font suggestion 1:** [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip)
 - **Font suggestion 2:** [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
@@ -110,7 +110,7 @@ Install the fronts for all users. Choose a font based in nerd fonts.
 ### Solve problems <a name="solve-problems"></a>
 
 #### UnauthorizedAccess error
-![Windows terminal unauthorized access](../media/windows-terminal-error.png "Windows terminal unauthorized access")
+![Windows terminal unauthorized access](/media/windows-terminal-error.png "Windows terminal unauthorized access")
 
 ```bash
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
