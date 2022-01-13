@@ -10,6 +10,7 @@ Open source IDE supported by Microsoft very fast and with support for a lot exte
   - [GitHub Actions](#extensions-github-actions)
   - [Docker](#extensions-github-docker)
   - [Task list](#extensions-tasklist)
+  - [Back & Forth](#extensions-back-forth)
 - [Tips](#tips)
   - [Show whitespaces](#tips-show-whitespaces)
 - [HotKeys (Shortcuts)](#hotkeys)
@@ -43,6 +44,14 @@ A extensions to show all your tags TODOs, FIXMEs, etc.
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 > [Equivalence in visual studio](./VisualStudio.md#tools-tasklist)
+
+
+#### Back & Forth <a name="extensions-back-forth"></a>
+Extension for VSCode adds go back/forward buttons to the title bar for easier navigation through recent edit locations and opened files.
+
+[Download](https://marketplace.visualstudio.com/items?itemName=nick-rudenko.back-n-forth)
+
+
 
 ### Tips <a name="tips"></a>
 

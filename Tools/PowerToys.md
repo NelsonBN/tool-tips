@@ -60,4 +60,4 @@ Shortcut to enable prewiew: `Alt` + `P`.
 
 
 ### PowerToys Run <a name="favorites-PowerToysRun"></a>
-Prompt to run commands like a MacOS. Shortcut: `Alt` + `Space`
+Prompt to run commands like a MacOS. Shortcut: `Ctrl` + `Space`
