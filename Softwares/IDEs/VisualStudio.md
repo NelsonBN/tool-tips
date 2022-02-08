@@ -7,7 +7,7 @@ Maybe the best and more complete IDE.
 - [.. Softwares](/Softwares/README.md)
 - [Download](#download)
 - [Extensions](#extensions)
-  - [Productivity Power Tools 2017/2019](#extensions-productivity-power-tools)
+  - [Productivity Power Tools](#extensions-productivity-power-tools)
 - [Tips](#tips)
   - [Display line numbers](#tips-display-line-numbers)
   - [Unused namespaces](#tips-unused-namespaces)
@@ -29,9 +29,9 @@ Maybe the best and more complete IDE.
 
 
 #### Productivity Power Tools 2017/2019 <a name="extensions-productivity-power-tools"></a>
-This is an extension bundle installer that will install each of the individual components of Productivity Power Tools for Visual Studio 2017 and 2019
+This is an extension bundle installer that will install each of the individual components of Productivity Power Tools for Visual Studio 2017, 2019 and 2022
 
-[Download](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
+[To 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
 
 
 
@@ -41,11 +41,14 @@ This is an extension bundle installer that will install each of the individual c
 #### Display line numbers <a name="tips-display-line-numbers"></a>
 1. `Menu` > `Tools` > `Options` > `Text Editor` > `All Languages`
 2. Mark the option `Line numbers`
+
 [Official documentation](https://docs.microsoft.com/en-us/visualstudio/ide/reference/how-to-display-line-numbers-in-the-editor?view=vs-2019)
 
 
 #### Unused namespaces <a name="tips-unused-namespaces"></a>
 **Remove unused namespaces**
+
+_Only for Visual Studio 2017 and 2019_
 1. Install extension the [Productivity Power Tools 2017/2019](#extensions-productivity-power-tools)
 2. `Menu` > `Tools` > `Options` > `Productivity Power Tools` > `PowerCommands` > `General`
 3. Mark the option `Remove and Sort Usings on save`
@@ -80,14 +83,26 @@ A tool to show all your tags TODOs, FIXMEs, etc.
 _Or can use the [shortcut](#tools-Code-cleanup-shortcut)_
 
 ##### My configuration suggestion
-- Apply 'this' qualification preferences
-- Sort usings
-- Remove unnecessary usings
-- Remove unused variables
 - Remove unnecessary casts
+- Make private fields ReadOnly when possible
+- Apply object/collection initialization preferences
+- Sort usings
+- Sort imports
+- Apply Me qualification preferences
+- Format document
+- Remove unnecessary imports
+- Remove unused variables
 - Add accessibility modifiers
-- Make private fields readonly when possible
+- Apply file header preferences
+- Apply expression/block body preferences
+- Apply inline 'out' variables preferences
+- Apply implicit/explicit type preferences
 - Add/remove braces for single-line control statements
+- Apply language/framwork type preferences
+- Remove unnecessary usings
+- Apply 'this' qualification preferences
+- Make private fields readonly when possible
+- Sort usings
 
 ##### Shortcut <a name="tools-Code-cleanup-shortcut"></a>
 ![Task List options](/media/visualstudio-tools-code-cleanup.png "Task List options")
