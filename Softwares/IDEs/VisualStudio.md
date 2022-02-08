@@ -10,7 +10,9 @@ Maybe the best and more complete IDE.
   - [Productivity Power Tools](#extensions-productivity-power-tools)
 - [Tips](#tips)
   - [Display line numbers](#tips-display-line-numbers)
-  - [Unused namespaces](#tips-unused-namespaces)
+  - [Map mode on scrollbar](#tips-map-mode-scrollbar)
+  - [NuGet Package Manager](#tips-nuget-package-manager)
+  - [Unused namespaces (Visual Studio 2017 and 2019)](#tips-unused-namespaces)
 - [Tools](#tools)
   - [Task list](#tools-tasklist)
   - [Code cleanup](#tools-Code-cleanup)
@@ -41,6 +43,19 @@ This is an extension bundle installer that will install each of the individual c
 #### Display line numbers <a name="tips-display-line-numbers"></a>
 1. `Menu` > `Tools` > `Options` > `Text Editor` > `All Languages`
 2. Mark the option `Line numbers`
+
+[Official documentation](https://docs.microsoft.com/en-us/visualstudio/ide/reference/how-to-display-line-numbers-in-the-editor?view=vs-2019)
+
+
+#### Map mode on scrollbar <a name="tips-map-mode-scrollbar"></a>
+Show the map on the vertical scrollbar.
+![Map mode on scrollbar](/media/visualstudio-tips-map-scrollbar.png "Map mode on scrollbar")
+
+
+
+#### Default package management format <a name="tips-Default-package-management-format"></a>
+1. `Menu` > `Tools` > `Options` > `NuGet Package Manager` > `Default package management format`
+2. Change to `PackageReference`
 
 [Official documentation](https://docs.microsoft.com/en-us/visualstudio/ide/reference/how-to-display-line-numbers-in-the-editor?view=vs-2019)
 
