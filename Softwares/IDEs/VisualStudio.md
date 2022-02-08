@@ -39,6 +39,8 @@ This is an extension bundle installer that will install each of the individual c
 
 
 #### Display line numbers <a name="tips-display-line-numbers"></a>
+1. `Menu` > `Tools` > `Options` > `Text Editor` > `All Languages`
+2. Mark the option `Line numbers`
 [Official documentation](https://docs.microsoft.com/en-us/visualstudio/ide/reference/how-to-display-line-numbers-in-the-editor?view=vs-2019)
 
 
