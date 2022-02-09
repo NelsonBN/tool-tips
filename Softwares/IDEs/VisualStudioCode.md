@@ -65,6 +65,7 @@ This tip it's very useful to when you are create yaml files or programming pytho
 3. change to **All**
 
 ![Show whitespaces](/media/show-whitespaces.png "Show whitespaces")
+> [Equivalence in visual studio](./VisualStudio.md#tips-show-whitespaces)
 
 
 

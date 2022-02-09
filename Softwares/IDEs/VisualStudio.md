@@ -9,7 +9,8 @@ Maybe the best and more complete IDE.
 - [Extensions](#extensions)
   - [Productivity Power Tools](#extensions-productivity-power-tools)
 - [Tips](#tips)
-  - [Display line numbers](#tips-display-line-numbers)
+  - [Show line numbers](#tips-show-line-numbers)
+  - [Show whitespaces](#tips-show-whitespaces)
   - [Map mode on scrollbar](#tips-map-mode-scrollbar)
   - [NuGet Package Manager](#tips-nuget-package-manager)
   - [Unused namespaces (Visual Studio 2017 and 2019)](#tips-unused-namespaces)
@@ -40,11 +41,16 @@ This is an extension bundle installer that will install each of the individual c
 ### Tips <a name="tips"></a>
 
 
-#### Display line numbers <a name="tips-display-line-numbers"></a>
+#### Show line numbers <a name="tips-show-line-numbers"></a>
 1. `Menu` > `Tools` > `Options` > `Text Editor` > `All Languages`
 2. Mark the option `Line numbers`
 
 [Official documentation](https://docs.microsoft.com/en-us/visualstudio/ide/reference/how-to-display-line-numbers-in-the-editor?view=vs-2019)
+
+
+#### Show whitespaces <a name="tips-show-whitespaces"></a>
+Mark the option `Menu` > `Edit` > `Advanced` > `View White Space`
+> [Equivalence in Visual Studio Code](./VisualStudioCode.md#tips-show-whitespaces)
 
 
 #### Map mode on scrollbar <a name="tips-map-mode-scrollbar"></a>
@@ -87,6 +93,7 @@ A tool to show all your tags TODOs, FIXMEs, etc.
 2. Button `Add`
 
 ![Task List options](/media/visualstudio-tools-tasklist-options.png "Task List options")
+> [Equivalence in Visual Studio Code](./VisualStudioCode.md#extensions-tasklist)
 
 
 #### Code cleanup <a name="tools-Code-cleanup"></a>
