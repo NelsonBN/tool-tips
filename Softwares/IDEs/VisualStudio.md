@@ -14,6 +14,7 @@ Maybe the best and more complete IDE.
   - [Map mode on scrollbar](#tips-map-mode-scrollbar)
   - [NuGet Package Manager](#tips-nuget-package-manager)
   - [Unused namespaces (Visual Studio 2017 and 2019)](#tips-unused-namespaces)
+  - [Does not close the browser when stop debug](#tips-does-not-close-the-browser-when-stop-debug)
 - [Tools](#tools)
   - [Task list](#tools-tasklist)
   - [Code cleanup](#tools-Code-cleanup)
@@ -73,6 +74,11 @@ _Only for Visual Studio 2017 and 2019_
 1. Install extension the [Productivity Power Tools 2017/2019](#extensions-productivity-power-tools)
 2. `Menu` > `Tools` > `Options` > `Productivity Power Tools` > `PowerCommands` > `General`
 3. Mark the option `Remove and Sort Usings on save`
+
+
+#### Does not close the browser when stop debug <a name="tips-does-not-close-the-browser-when-stop-debug"></a>
+1. `Menu` > `Tools` > `Options` > `Project and Solutions` > `Web Projects`
+2. Uncheck the option `Stop debugger when browser windows is closed, close browser when debugging`
 
 
 
