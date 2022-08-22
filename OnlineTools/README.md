@@ -20,6 +20,7 @@ List of useful online tools.
 
 ## Tools <a name="tools"></a>
 - [Webhook listener](https://webhook.site/) - To debug webhooks
+- [JSON Formatter](https://jsonformatter.curiousconcept.com/) - To beautify and validate json structures
 
 
 ## Playgrounds <a name="playground"></a>
