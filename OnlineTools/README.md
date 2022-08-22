@@ -6,11 +6,12 @@ List of useful online tools.
 - [.. Dev tips](/README.md)
 - [Generators](#generators)
 - [Tools](#tools)
+- [Compression/Decompression](#compression-decompression)
 - [Playgrounds](#playground)
   - [.NET](#playground-dotnet)
   - [Docker](#playground-docker)
 - [Simulators](#simulators)
-- [Drawing](#drawing)
+- [Drawing/Diagrams](#drawingdiagrams)
 
 
 
@@ -21,7 +22,11 @@ List of useful online tools.
 
 ## Tools <a name="tools"></a>
 - [Webhook listener](https://webhook.site/) - To debug webhooks
+
+
+## Compression/Decompression <a name="compression-decompression"></a>
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - To beautify and validate json structures
+- [TinyPNG](https://tinypng.com/) - Smart WebP, PNG and JPEG compression
 
 
 ## Playgrounds <a name="playground"></a>
@@ -38,5 +43,6 @@ List of useful online tools.
 - [RabbitMQ Simulator](http://tryrabbitmq.com/) - To represent a messaging topology
 
 
-## Drawing <a name="drawing"></a>
+## Drawing/Diagrams <a name="drawingdiagrams"></a>
 - [Draw.io](https://app.diagrams.net/) - Platform with many templates and objects to create diagrams. Supports a lot of diagram templates
+- [OpenAPM](https://openapm.io/) - To design observability solutions based on CNCF tools
