@@ -10,6 +10,7 @@ List of useful online tools.
   - [.NET](#playground-dotnet)
   - [Docker](#playground-docker)
 - [Simulators](#simulators)
+- [Drawing](#drawing)
 
 
 
@@ -35,3 +36,7 @@ List of useful online tools.
 
 ## Simulators <a name="simulators"></a>
 - [RabbitMQ Simulator](http://tryrabbitmq.com/) - To represent a messaging topology
+
+
+## Drawing <a name="drawing"></a>
+- [Draw.io](https://app.diagrams.net/) - Platform with many templates and objects to create diagrams. Supports a lot of diagram templates
