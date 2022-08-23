@@ -5,6 +5,7 @@ List of useful online tools.
 ## Index
 - [.. Dev tips](/README.md)
 - [Generators](#generators)
+- [Encoders/Decoders](#encoders-decoders)
 - [Tools](#tools)
 - [Compression/Decompression](#compression-decompression)
 - [Playgrounds](#playground)
@@ -18,6 +19,12 @@ List of useful online tools.
 ## Generators <a name="generators"></a>
 - [Online GUID](https://www.guidgenerator.com/) - To generate GUIDs
 - [Connection strings](https://www.connectionstrings.com/) - To get connection strings reference
+- [Basic authentication](https://www.blitter.se/utils/basic-authentication-header-generator/) - To generate basic authentication header
+
+
+## Encoders/Decoders <a name="encoders-decoders"></a>
+- [To base64](https://www.base64encode.org/) - Encode to base64
+- [From base64](https://www.base64decode.org/) - Decode from base64
 
 
 ## Tools <a name="tools"></a>
