@@ -11,6 +11,7 @@ List of useful online tools.
 - [Playgrounds](#playground)
   - [.NET](#playground-dotnet)
   - [Docker](#playground-docker)
+  - [Web](#playground-web)
 - [Simulators](#simulators)
 - [Drawing/Diagrams](#drawingdiagrams)
 
@@ -29,6 +30,7 @@ List of useful online tools.
 
 ## Tools <a name="tools"></a>
 - [Webhook listener](https://webhook.site/) - To debug webhooks
+- [Can I use](https://caniuse.com/) - Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 
 ## Compression/Decompression <a name="compression-decompression"></a>
@@ -44,6 +46,9 @@ List of useful online tools.
 
 ### Docker <a name="playground-docker"></a>
 - [Play with Docker](https://labs.play-with-docker.com/) - To run containers
+
+### Web <a name="playground-web"></a>
+- [Codepen](https://codepen.io/) - To run web code (HTML, Javascript and CSS) and test it
 
 
 ## Simulators <a name="simulators"></a>
