@@ -91,6 +91,8 @@ _Only for Visual Studio 2017 and 2019_
 ![Enabling Source Link](https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2020/11/visual-studio-step-2.png "Enabling Source Link")
 > Verify that Enable Source Link support is checked (it is by default). If you’d like to step into .NET Framework code, you’ll also need to check Enable .NET Framework source stepping. This is not required for .NET Core.
 
+> [Equivalence in Visual Studio Code](./VisualStudioCode.md#tips-enabling-source-link)
+
 >> Original source of the tutorial [.NET Blog](https://devblogs.microsoft.com/dotnet/improving-debug-time-productivity-with-source-link/)
 
 

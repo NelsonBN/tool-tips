@@ -100,6 +100,7 @@ Visual Studio Code has debugger settings configured per project in the launch.js
     "COMPlus_ReadyToRun": "0"
 }
 ```
+> [Equivalence in visual studio](./VisualStudio.md#tips-enabling-source-link)
 
 >> Original source of the tutorial [.NET Blog](https://devblogs.microsoft.com/dotnet/improving-debug-time-productivity-with-source-link/)
 
