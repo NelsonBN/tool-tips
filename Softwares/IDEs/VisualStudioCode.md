@@ -18,6 +18,7 @@ Open source IDE supported by Microsoft very fast and with support for a lot exte
   - [Vim](#extensions-vim)
 - [Tips](#tips)
   - [Show whitespaces](#tips-show-whitespaces)
+  - [Enabling Source Link](#tips-enabling-source-link)
 - [HotKeys (Shortcuts)](#hotkeys)
   - [Edit](#hotkeys-edit)
   - [List](#hotkeys-list)
@@ -83,6 +84,24 @@ This tip it's very useful to when you are create yaml files or programming pytho
 
 ![Show whitespaces](/media/show-whitespaces.png "Show whitespaces")
 > [Equivalence in visual studio](./VisualStudio.md#tips-show-whitespaces)
+
+
+#### Enabling Source Link <a name="tips-enabling-source-link"></a>
+Visual Studio Code has debugger settings configured per project in the launch.json:
+```json
+"justMyCode": false,
+"symbolOptions": {
+    "searchMicrosoftSymbolServer": true,
+    "searchNuGetOrgSymbolServer": true
+},
+"suppressJITOptimizations": true,
+"env": {
+    "COMPlus_ZapDisable": "1",
+    "COMPlus_ReadyToRun": "0"
+}
+```
+
+>> Original source of the tutorial [.NET Blog](https://devblogs.microsoft.com/dotnet/improving-debug-time-productivity-with-source-link/)
 
 
 

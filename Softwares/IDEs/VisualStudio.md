@@ -15,6 +15,7 @@ Maybe the best and more complete IDE.
   - [NuGet Package Manager](#tips-nuget-package-manager)
   - [Unused namespaces (Visual Studio 2017 and 2019)](#tips-unused-namespaces)
   - [Does not close the browser when stop debug](#tips-does-not-close-the-browser-when-stop-debug)
+  - [Enabling Source Link](#tips-enabling-source-link)
 - [Tools](#tools)
   - [Task list](#tools-tasklist)
   - [Code cleanup](#tools-Code-cleanup)
@@ -79,6 +80,18 @@ _Only for Visual Studio 2017 and 2019_
 #### Does not close the browser when stop debug <a name="tips-does-not-close-the-browser-when-stop-debug"></a>
 1. `Menu` > `Tools` > `Options` > `Project and Solutions` > `Web Projects`
 2. Uncheck the option `Stop debugger when browser windows is closed, close browser when debugging`
+
+
+#### Enabling Source Link <a name="tips-enabling-source-link"></a>
+1. `Menu` > `Tools` > `Options` > `Debugging` > `Symbols` and ensure that the 'NuGet.org Symbol Server' option is checked. Specifying a directory for the symbol cache is a good idea to avoid downloading the same symbols again.
+![Enabling Source Link](https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2020/11/visual-studio-step-1.png "Enabling Source Link")
+> If you’d like to step into the .NET framework code, you’ll also need check the 'Microsoft Symbol Servers' option.
+
+2. Disable Just My Code in `Menu` > `Tools` > `Options` > `Debugging` > `General` since we want the debugger to attempt to locate symbols for code outside your solution.
+![Enabling Source Link](https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2020/11/visual-studio-step-2.png "Enabling Source Link")
+> Verify that Enable Source Link support is checked (it is by default). If you’d like to step into .NET Framework code, you’ll also need to check Enable .NET Framework source stepping. This is not required for .NET Core.
+
+>> Original source of the tutorial [.NET Blog](https://devblogs.microsoft.com/dotnet/improving-debug-time-productivity-with-source-link/)
 
 
 
