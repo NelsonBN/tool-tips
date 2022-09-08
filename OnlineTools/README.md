@@ -34,6 +34,7 @@ List of useful online tools.
 
 
 ## Compression/Decompression <a name="compression-decompression"></a>
+- [JSON Crack](https://jsoncrack.com/) - Seamlessly visualize your JSON data instantly into graphs.
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - To beautify and validate json structures
 - [TinyPNG](https://tinypng.com/) - Smart WebP, PNG and JPEG compression
 
