@@ -31,6 +31,7 @@ List of useful online tools.
 ## Tools <a name="tools"></a>
 - [Webhook listener](https://webhook.site/) - To debug webhooks
 - [Can I use](https://caniuse.com/) - Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+- [Cloud Ping](https://cloudping.info/) - Use this page to measure latency from your browser to various cloud provider datacenters.
 
 
 ## Compression/Decompression <a name="compression-decompression"></a>
