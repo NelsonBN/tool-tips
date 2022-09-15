@@ -18,6 +18,7 @@ Open source IDE supported by Microsoft very fast and with support for a lot exte
   - [Vim](#extensions-vim)
 - [Tips](#tips)
   - [Show whitespaces](#tips-show-whitespaces)
+  - [Sticky scroll](#tips-sticky-scroll)
   - [Enabling Source Link](#tips-enabling-source-link)
 - [HotKeys (Shortcuts)](#hotkeys)
   - [Edit](#hotkeys-edit)
@@ -84,6 +85,17 @@ This tip it's very useful to when you are create yaml files or programming pytho
 
 ![Show whitespaces](/media/show-whitespaces.png "Show whitespaces")
 > [Equivalence in visual studio](./VisualStudio.md#tips-show-whitespaces)
+
+
+#### Sticky scroll <a name="tips-sticky-scrol"></a>
+
+We this feature, you have the context to where you are in the code because the sections stick at the top, e.g. a class definition, method definition, markdown headers, etc.
+
+1. Go Settings
+2. Search the configuration: `sticky`
+3. Select the option `Edit > Sticky Scroll`
+
+![Sticky scroll](/media/vscode-tips-sticky-scrol.png "Sticky scroll")
 
 
 #### Enabling Source Link <a name="tips-enabling-source-link"></a>
