@@ -59,13 +59,13 @@ Mark the option `Menu` > `Edit` > `Advanced` > `View White Space`
 Show the map on the vertical scrollbar.
 ![Map mode on scrollbar](/media/visualstudio-tips-map-scrollbar.png "Map mode on scrollbar")
 
+[Official documentation](https://docs.microsoft.com/en-us/visualstudio/ide/how-to-track-your-code-by-customizing-the-scrollbar?view=vs-2022)
+
 
 
 #### Default package management format <a name="tips-Default-package-management-format"></a>
 1. `Menu` > `Tools` > `Options` > `NuGet Package Manager` > `Default package management format`
 2. Change to `PackageReference`
-
-[Official documentation](https://docs.microsoft.com/en-us/visualstudio/ide/reference/how-to-display-line-numbers-in-the-editor?view=vs-2019)
 
 
 #### Unused namespaces <a name="tips-unused-namespaces"></a>
