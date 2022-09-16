@@ -54,7 +54,7 @@ List of useful online tools.
 
 
 ## Simulators <a name="simulators"></a>
-- [RabbitMQ Simulator](http://tryrabbitmq.com/) - To represent a messaging topology
+- [RabbitMQ Simulator](http://tryrabbitmq.com/) - To represent and validate your messaging topology with RabbitMQ
 
 
 ## Drawing/Diagrams <a name="drawingdiagrams"></a>
