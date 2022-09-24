@@ -8,10 +8,10 @@ List of useful online tools.
 - [Encoders/Decoders](#encoders-decoders)
 - [Tools](#tools)
 - [Compression/Decompression](#compression-decompression)
-- [Playgrounds](#playground)
-  - [.NET](#playground-dotnet)
-  - [Docker](#playground-docker)
-  - [Web](#playground-web)
+- [Playgrounds](#playgrounds)
+  - [.NET](#playgrounds-dotnet)
+  - [Docker](#playgrounds-docker)
+  - [Web](#playgrounds-web)
 - [Simulators](#simulators)
 - [Drawing/Diagrams](#drawingdiagrams)
 
@@ -40,16 +40,18 @@ List of useful online tools.
 - [TinyPNG](https://tinypng.com/) - Smart WebP, PNG and JPEG compression
 
 
-## Playgrounds <a name="playground"></a>
+## Playgrounds <a name="playgrounds"></a>
 
-### .NET <a name="playground-dotnet"></a>
+- [Regex101](https://regex101.com/) - Online regex tester and debugger: C#, PHP, PCRE, Python, Golang and JavaScript
+
+### .NET <a name="playgrounds-dotnet"></a>
 - [SharpLab](https://sharplab.io/) - To see the code as compiler sees it
 - [.NET Fiddle](https://dotnetfiddle.net/) - To run .NET code
 
-### Docker <a name="playground-docker"></a>
+### Docker <a name="playgrounds-docker"></a>
 - [Play with Docker](https://labs.play-with-docker.com/) - To run containers
 
-### Web <a name="playground-web"></a>
+### Web <a name="playgrounds-web"></a>
 - [Codepen](https://codepen.io/) - To run web code (HTML, Javascript and CSS) and test it
 
 
