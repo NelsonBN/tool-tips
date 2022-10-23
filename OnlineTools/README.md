@@ -41,7 +41,7 @@ List of useful online tools.
 
 
 ## Playgrounds <a name="playgrounds"></a>
-
+- [VisualStudio code](https://vscode.dev) - Online Visual Studio Code editor
 - [Regex101](https://regex101.com/) - Online regex tester and debugger: C#, PHP, PCRE, Python, Golang and JavaScript
 
 ### .NET <a name="playgrounds-dotnet"></a>
