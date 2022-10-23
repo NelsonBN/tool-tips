@@ -52,7 +52,7 @@ This is an extension bundle installer that will install each of the individual c
 
 #### Show whitespaces <a name="tips-show-whitespaces"></a>
 Mark the option `Menu` > `Edit` > `Advanced` > `View White Space`
-> [Equivalence in Visual Studio Code](./VisualStudioCode.md#tips-show-whitespaces)
+> [Equivalence in Visual Studio Code](./VisualStudioCode/README.md#tips-show-whitespaces)
 
 
 #### Map mode on scrollbar <a name="tips-map-mode-scrollbar"></a>
@@ -91,7 +91,7 @@ _Only for Visual Studio 2017 and 2019_
 ![Enabling Source Link](https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2020/11/visual-studio-step-2.png "Enabling Source Link")
 > Verify that Enable Source Link support is checked (it is by default). If you’d like to step into .NET Framework code, you’ll also need to check Enable .NET Framework source stepping. This is not required for .NET Core.
 
-> [Equivalence in Visual Studio Code](./VisualStudioCode.md#tips-enabling-source-link)
+> [Equivalence in Visual Studio Code](./VisualStudioCode/README.md#tips-enabling-source-link)
 
 >> Original source of the tutorial [.NET Blog](https://devblogs.microsoft.com/dotnet/improving-debug-time-productivity-with-source-link/)
 
@@ -114,7 +114,7 @@ A tool to show all your tags TODOs, FIXMEs, etc.
 2. Button `Add`
 
 ![Task List options](/media/visualstudio-tools-tasklist-options.png "Task List options")
-> [Equivalence in Visual Studio Code](./VisualStudioCode.md#extensions-tasklist)
+> [Equivalence in Visual Studio Code](./VisualStudioCode/README.md#extensions-tasklist)
 
 
 #### Code cleanup <a name="tools-Code-cleanup"></a>
@@ -157,6 +157,10 @@ _Or can use the [shortcut](#tools-Code-cleanup-shortcut)_
 #### Edit <a name="hotkeys-edit"></a>
 `Menu` > `Tools` > `Options` > `Environment` > `Keyboard`
 
+or
+
+`Ctrl` + `K` + `S`
+
 
 #### List <a name="hotkeys-list"></a>
 
@@ -170,3 +174,9 @@ _Or can use the [shortcut](#tools-Code-cleanup-shortcut)_
 
 **Files**
 - `Ctrl` + `Shift` + `S` : Save All (File.SaveAll)
+
+**Selection**
+- `Shift` + `Alt` + `Up Arrow` : Cursor column select up (Edit.LineUpExtendColumn) (Text Editor)
+- `Shift` + `Alt` + `Down Arrow` : Cursor column select down (Edit.LineDownExtendColumn) (Text Editor)
+- `Shift` + `Alt` + `Right Arrow` : Cursor column select right (Edit.CharRightExtendColumn) (Text Editor)
+- `Shift` + `Alt` + `Left Arrow` : Cursor column select left (Edit.CharLeftExtendColumn) (Text Editor)

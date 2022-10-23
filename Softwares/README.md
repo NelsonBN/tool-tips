@@ -1,4 +1,4 @@
-# Software tips
+# Softwares
 Software tips to improve development
 
 
@@ -6,4 +6,4 @@ Software tips to improve development
 - [.. Dev tips](/README.md)
 - IDE's
   - [Visual Studio](/Softwares/IDEs/VisualStudio.md)
-  - [Visual Studio Code](/Softwares/IDEs/VisualStudioCode.md)
+  - [Visual Studio Code](/Softwares/IDEs/VisualStudioCode/README.md)

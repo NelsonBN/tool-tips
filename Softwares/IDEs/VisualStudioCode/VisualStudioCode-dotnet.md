@@ -3,7 +3,7 @@
 
 
 ## Index
-- [.. SDKs](/Softwares/IDEs/VisualStudioCode.md)
+- [.. Visual Studio Code](/Softwares/IDEs/VisualStudioCode.md)
 - [Extension](#extension)
 - [Set to debug mode](#debug-mode)
 - [Hide build and debug files](#hide-build-debug-files)
