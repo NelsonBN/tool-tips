@@ -19,6 +19,7 @@ Maybe the best and more complete IDE.
 - [Tools](#tools)
   - [Task list](#tools-tasklist)
   - [Code cleanup](#tools-Code-cleanup)
+- [Exclude VisualStudio from windows defender](#windows-defender)
 - [HotKeys (Shortcuts)](#hotkeys)
   - [Edit](#hotkeys-edit)
   - [List](#hotkeys-list)
@@ -149,6 +150,15 @@ _Or can use the [shortcut](#tools-Code-cleanup-shortcut)_
 
 ##### Shortcut <a name="tools-Code-cleanup-shortcut"></a>
 ![Task List options](/media/visualstudio-tools-code-cleanup.png "Task List options")
+
+
+
+### Exclude VisualStudio from windows defender <a name="windows-defender"></a>
+1. Go to `Start` > `Settings` > `Privacy & Security` > `Windows Security` > `Virus & threat protection` > Under `Virus & threat protection settings` (Manage settings) > `Exclusions` > `Add or remove exclusions` > `Add an exclusion` > `Folder` > `Select the folder` > `Exclusions`
+2. Add VisualStudio exe `C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe` *(The path can be different depending on the version and edition of Visual Studio)*
+3. Add your project folder `C:\projects` (That is my example, you can use another folder)
+
+![Exclude VisualStudio from windows defender](/media/vs-windows-defender.png "Exclude VisualStudio from windows defender")
 
 
 
