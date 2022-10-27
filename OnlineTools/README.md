@@ -36,6 +36,7 @@ List of useful online tools.
 
 
 ## Compression/Decompression <a name="compression-decompression"></a>
+- [Dev tools](https://smalldev.tools/) - A collection of small developer tools
 - [JSON Crack](https://jsoncrack.com/) - Seamlessly visualize your JSON data instantly into graphs.
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - To beautify and validate json structures
 - [TinyPNG](https://tinypng.com/) - Smart WebP, PNG and JPEG compression
@@ -54,6 +55,7 @@ List of useful online tools.
 
 ### Web <a name="playgrounds-web"></a>
 - [Codepen](https://codepen.io/) - To run web code (HTML, Javascript and CSS) and test it
+- [Type Scale](https://type-scale.com/) - To test type scale
 
 
 ## Simulators <a name="simulators"></a>
