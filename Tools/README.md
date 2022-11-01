@@ -10,6 +10,7 @@ Tool tips to improve development
 - [PowerToys](/Tools/PowerToys.md)
 - [WSL 2](/Tools/wsl2.md)
   - [Docker](/Tools/wsl2-docker.md)
+- [ZoomIt](#tool-ZoomIt)
 - [Responsively](#tool-Responsively)
 - [WinDirStat](#tool-WinDirStat)
 
@@ -17,6 +18,12 @@ Tool tips to improve development
 ### ScreenToGif <a name="tool-ScreenToGif"></a>
 ScreenToGif is a free and open source screen recorder and editor. It allows you to record a selected area of your screen, edit and save it as a gif or video file.
 [Download](https://www.screentogif.com/)
+
+
+### ZoomIt <a name="tool-ZoomIt"></a>
+ZoomIt is a free and open source screen magnifier and annotation tool for Windows. It allows you to zoom in on a portion of your screen, and draw on it with a variety of tools.
+
+[Download](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
 
 ### Responsively <a name="tool-Responsively"></a>
