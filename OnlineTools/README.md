@@ -70,6 +70,7 @@ List of useful online tools.
 
 ## Images <a name="images"></a>
 - [TinyPNG](https://tinypng.com/) - Smart WebP, PNG and JPEG compression
+- [Remove Watermarks](https://www.watermarkremover.io/) - Remove watermarks from images
 
 
 ## Social media/Blogs <a name="socialmedia-blogs"></a>
