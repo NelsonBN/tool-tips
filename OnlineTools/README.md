@@ -6,7 +6,7 @@ List of useful online tools.
 - [.. Dev tips](/README.md)
 - [Generators](#generators)
 - [Encoders/Decoders](#encoders-decoders)
-- [Tools](#tools)
+- [Tools to development](#tools-to-development)
 - [Compression/Decompression](#compression-decompression)
 - [Playgrounds](#playgrounds)
   - [.NET](#playgrounds-dotnet)
@@ -14,6 +14,7 @@ List of useful online tools.
   - [Web](#playgrounds-web)
 - [Simulators](#simulators)
 - [Drawing/Diagrams](#drawing-diagrams)
+- [Images](#images)
 - [Social media/Blogs](#socialmedia-blogs)
 
 
@@ -29,17 +30,15 @@ List of useful online tools.
 - [From base64](https://www.base64decode.org/) - Decode from base64
 
 
-## Tools <a name="tools"></a>
+## Tools to development <a name="tools-to-development"></a>
 - [Webhook listener](https://webhook.site/) - To debug webhooks
-- [Can I use](https://caniuse.com/) - Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [Cloud Ping](https://cloudping.info/) - Use this page to measure latency from your browser to various cloud provider datacenters.
+- [Dev tools](https://smalldev.tools/) - A collection of small developer tools
 
 
 ## Compression/Decompression <a name="compression-decompression"></a>
-- [Dev tools](https://smalldev.tools/) - A collection of small developer tools
 - [JSON Crack](https://jsoncrack.com/) - Seamlessly visualize your JSON data instantly into graphs.
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - To beautify and validate json structures
-- [TinyPNG](https://tinypng.com/) - Smart WebP, PNG and JPEG compression
 
 
 ## Playgrounds <a name="playgrounds"></a>
@@ -56,6 +55,7 @@ List of useful online tools.
 ### Web <a name="playgrounds-web"></a>
 - [Codepen](https://codepen.io/) - To run web code (HTML, Javascript and CSS) and test it
 - [Type Scale](https://type-scale.com/) - To test type scale
+- [Can I use](https://caniuse.com/) - Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 
 ## Simulators <a name="simulators"></a>
@@ -65,6 +65,10 @@ List of useful online tools.
 ## Drawing/Diagrams <a name="drawing-diagrams"></a>
 - [Draw.io](https://app.diagrams.net/) - Platform with many templates and objects to create diagrams. Supports a lot of diagram templates
 - [OpenAPM](https://openapm.io/) - To design observability solutions based on CNCF tools
+
+
+## Images <a name="images"></a>
+- [TinyPNG](https://tinypng.com/) - Smart WebP, PNG and JPEG compression
 
 
 ## Social media/Blogs <a name="socialmedia-blogs"></a>
