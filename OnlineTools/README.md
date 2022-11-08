@@ -75,3 +75,4 @@ List of useful online tools.
 
 ## Social media/Blogs <a name="socialmedia-blogs"></a>
 - [Carbon](https://carbon.now.sh/) - To create and share beautiful images of your source code
+- [PhotoRoom](https://app.photoroom.com/) - To create beautiful images of your social media
