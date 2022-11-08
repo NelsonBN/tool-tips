@@ -23,6 +23,7 @@ List of useful online tools.
 - [Online GUID](https://www.guidgenerator.com/) - To generate GUIDs
 - [Connection strings](https://www.connectionstrings.com/) - To get connection strings reference
 - [Basic authentication](https://www.blitter.se/utils/basic-authentication-header-generator/) - To generate basic authentication header
+- [Minute Inbox](https://www.minuteinbox.com/) - Generate a temporary email for 10 minutes
 
 
 ## Encoders/Decoders <a name="encoders-decoders"></a>
