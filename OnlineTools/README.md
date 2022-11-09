@@ -25,6 +25,7 @@ List of useful online tools.
 - [Basic authentication](https://www.blitter.se/utils/basic-authentication-header-generator/) - To generate basic authentication header
 - [Minute Inbox](https://www.minuteinbox.com/) - Generate a temporary email for 10 minutes
 - [Temp Number](https://temp-number.com/) - Temporary phone numbers
+- [Gerador de NIFs](https://nif.marcosantos.me) - To generate fake valid NIFs
 
 
 ## Encoders/Decoders <a name="encoders-decoders"></a>
