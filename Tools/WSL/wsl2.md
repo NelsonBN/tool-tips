@@ -5,7 +5,7 @@
 ## Index
 - [.. Tools](/Tools/README.md)
 - [Install docker in WSL](/Tools/WSL/wsl2-docker.md)
-- [Solve space issue](/Tools/WSL/wsl2-space-issue.md)
+- [Reclaim space used by WSL](/Tools/WSL/wsl2-reclaim-space-used.md)
 
 
 

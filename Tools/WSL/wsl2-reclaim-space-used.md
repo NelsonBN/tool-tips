@@ -1,4 +1,4 @@
-# Solve space issue
+# Reclaim space used by WSL
 
 It is known that WSL 2 has a caracteristic that it does not free the space even after recovering some space within WSL distribution. So this will consume space on the host machine that is not being used. So we need to solve this issue manually.
 This manual was created based on `Ubuntu 20.04` and `WSL 2`.
