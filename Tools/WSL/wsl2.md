@@ -4,6 +4,8 @@
 
 ## Index
 - [.. Tools](/Tools/README.md)
+- [Install docker in WSL](/Tools/WSL/wsl2-docker.md)
+- [Solve space issue](/Tools/WSL/wsl2-space-issue.md)
 
 
 
@@ -133,4 +135,4 @@ wsl --unregister Ubuntu-20.04
 
 
 ## Related documentation
-* [Install docker](/Tools/wsl2-docker.md)
+* [Install docker](/Tools/WSL/wsl2-docker.md)
