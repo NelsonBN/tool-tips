@@ -13,6 +13,7 @@ List of useful online tools.
   - [Docker](#playgrounds-docker)
   - [Web](#playgrounds-web)
 - [Simulators](#simulators)
+- [Databases](#databases)
 - [Drawing/Diagrams](#drawing-diagrams)
 - [Images](#images)
 - [Social media/Blogs](#socialmedia-blogs)
@@ -59,6 +60,10 @@ List of useful online tools.
 - [Codepen](https://codepen.io/) - To run web code (HTML, Javascript and CSS) and test it
 - [Type Scale](https://type-scale.com/) - To test type scale
 - [Can I use](https://caniuse.com/) - Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+
+
+## Databases <a name="databases"></a>
+- [The Connection Strings Reference](https://www.connectionstrings.com/) - To get connection strings for many databases
 
 
 ## Simulators <a name="simulators"></a>
