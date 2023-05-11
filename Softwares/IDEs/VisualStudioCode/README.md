@@ -87,9 +87,8 @@ Visual Studio Code has debugger settings configured per project in the launch.js
 **Files**
 - `Ctrl` + `Shift` + `S` : Save All (saveAll) _Modified by me_
 
-**Copy**
-- `Ctrl` + `Shift` + `Up Arrow` : Copy line up (editor.action.copyLinesUpAction) _Modified by me_
-- `Ctrl` + `Shift` + `Down Arrow` : Copy line down (editor.action.copyLinesDownAction) _Modified by me_
+**Duplicate line**
+- `Ctrl` + `D` : Copy line current line to down (editor.action.copyLinesDownAction) _Modified by me_
 
 **Selection**
 - `Alt` + `Click with mouse` : Multiple cursors to write in multiple lines in the same time. Press `esc` to exit. [Same with vim](./VisualStudioCode-extensions.md#extensions-vim-write-multiple-lines)
