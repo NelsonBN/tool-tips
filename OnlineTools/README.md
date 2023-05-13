@@ -21,6 +21,7 @@ List of useful online tools.
 
 
 ## Generators <a name="generators"></a>
+- [gitignore.io](https://www.toptal.com/developers/gitignore) - To generate .gitignore files
 - [Online GUID](https://www.guidgenerator.com/) - To generate GUIDs
 - [Connection strings](https://www.connectionstrings.com/) - To get connection strings reference
 - [Basic authentication](https://www.blitter.se/utils/basic-authentication-header-generator/) - To generate basic authentication header
