@@ -3,7 +3,7 @@
 
 
 ## Index
-- [.. Visual Studio Code](/Softwares/IDEs/VisualStudioCode.md)
+- [.. Visual Studio Code](/Software/IDEs/VisualStudioCode.md)
 - [Extension](#extension)
 - [Set to debug mode](#debug-mode)
 - [Hide build and debug files](#hide-build-debug-files)
@@ -13,11 +13,14 @@
 ## Extension <a name="extension"></a>
 
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+* [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 * [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
 * [Auto-Using for C#](https://marketplace.visualstudio.com/items?itemName=Fudge.auto-using)
 * [C# Namespace Autocompletion](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.namespace)
 * [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
 * [NuGet Reverse Package Search](https://marketplace.visualstudio.com/items?itemName=jesschadwick.nuget-reverse-package-search)
+
+If you want to search more extensions, in your Visual Studio Code, press `Ctrl` + `Shift` + `X` to open the extensions panel and write `@category:debuggers C#`
 
 
 ## Set to debug mode <a name="debug-mode"></a>

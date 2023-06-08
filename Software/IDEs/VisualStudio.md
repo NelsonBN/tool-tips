@@ -4,7 +4,7 @@ Maybe the best and more complete IDE.
 
 
 ## Index
-- [.. Softwares](/Softwares/README.md)
+- [.. Software](/Software/README.md)
 - [Download](#download)
 - [Extensions](#extensions)
   - [Productivity Power Tools](#extensions-productivity-power-tools)

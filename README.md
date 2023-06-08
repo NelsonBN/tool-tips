@@ -5,7 +5,7 @@ Tips, tools and software to improve your productivity
 
 ## Index
 - [Configurations](/Configurations/README.md)
-- [Softwares](/Softwares/README.md)
+- [Software](/Software/README.md)
 - [Tools](/Tools/README.md)
 - [Online Tools](/OnlineTools/README.md)
 - [SDKs](/SDKs/README.md)

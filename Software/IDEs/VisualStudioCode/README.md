@@ -4,9 +4,9 @@ Open source IDE supported by Microsoft very fast and with support for a lot exte
 
 
 ## Index
-- [.. Softwares](../../README.md)
+- [.. Software](../../README.md)
 - [Download](#download)
-- [Extensions](/Softwares/IDEs/VisualStudioCode/VisualStudioCode-extensions.md)
+- [Extensions](/Software/IDEs/VisualStudioCode/VisualStudioCode-extensions.md)
 - [Tips](#tips)
   - [Show whitespaces](#tips-show-whitespaces)
   - [Sticky scroll](#tips-sticky-scroll)
@@ -14,7 +14,7 @@ Open source IDE supported by Microsoft very fast and with support for a lot exte
 - [HotKeys (Shortcuts)](#hotkeys)
   - [Edit](#hotkeys-edit)
   - [List](#hotkeys-list)
-- [Visual Studio Code for .NET](/Softwares/IDEs/VisualStudioCode/VisualStudioCode-dotnet.md)
+- [Visual Studio Code for .NET](/Software/IDEs/VisualStudioCode/VisualStudioCode-dotnet.md)
 
 
 ## Download <a name="download"></a>

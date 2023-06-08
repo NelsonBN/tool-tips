@@ -6,6 +6,7 @@
 - [.. SDKs](/SDKs/README.md)
 - [Install .NET](#install)
 - [Basic commands](#basic-commands)
+- [VisualStudio code for .NET](../Software/IDEs/VisualStudioCode/VisualStudioCode-dotnet.md)
 
 
 ## Install .NET <a name="install"></a>
