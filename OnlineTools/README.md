@@ -25,9 +25,11 @@ List of useful online tools.
 - [Online GUID](https://www.guidgenerator.com/) - To generate GUIDs
 - [Connection strings](https://www.connectionstrings.com/) - To get connection strings reference
 - [Basic authentication](https://www.blitter.se/utils/basic-authentication-header-generator/) - To generate basic authentication header
+- [Cron expression](https://crontab.guru/) - To generate cron expressions
+- [NCron expression](https://ncrontab.swimburger.net/) - To generate NCron expressions (used for example in Azure Functions)
 - [Minute Inbox](https://www.minuteinbox.com/) - Generate a temporary email for 10 minutes
 - [Temp Number](https://temp-number.com/) - Temporary phone numbers
-- [Gerador de NIFs](https://nif.marcosantos.me) - To generate fake valid NIFs
+- [Gerador de NIFs](https://nif.marcosantos.me) - To generate fake valid NIFs (Portuguese Tax Identification Number)
 
 
 ## Encoders/Decoders <a name="encoders-decoders"></a>
